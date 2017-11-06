@@ -17,7 +17,3 @@
 **Tips and Tricks**
 * Caching for performance
 * Working Github API rate-limits
-* more as I think of them! :p
-
-Available month(s): **Nov, Dec, Jan**
-Optional: **@TimMarwick**
