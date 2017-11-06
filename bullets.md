@@ -21,5 +21,3 @@
 
 Available month(s): **Nov, Dec, Jan**
 Optional: **@TimMarwick**
-
-![mmj-creation](https://user-images.githubusercontent.com/2193454/31331257-fb18a28e-ad24-11e7-8cbf-ec142b1d53c3.gif)
