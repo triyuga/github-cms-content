@@ -19,3 +19,6 @@
 **Tips and Tricks**
 * Caching for performance
 * Working Github API rate-limits
+
+
+https://raw.githubusercontent.com/triyuga/github-cms-content/master/img/impossibly-cute-puppy-21.jpg
